@@ -1,5 +1,6 @@
 import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+import img1 from "./images/img1.png";
 
 const navigation = [
   { name: 'Dashboard', href: '#', current: true },
@@ -30,7 +31,7 @@ export default function Example() {
             <div className="flex shrink-0 items-center">
               <img
                 alt="IPL"
-                src=""
+                src={img1}
                 className="h-8 w-auto"
               />
             </div>

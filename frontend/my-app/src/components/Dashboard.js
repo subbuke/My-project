@@ -138,9 +138,58 @@ const Dashboard = () => {
         <td className="px-6 py-4"></td>
         <td className="px-6 py-4"></td>
       </tr>
+      <tr className="bg-white dark:bg-gray-800">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+         Rajasthan Royals
+        </th>
+        <td className="px-6 py-4">Barbados Royals</td>
+        <td className="px-6 py-4">Paarl Royals</td>
+        <td className="px-6 py-4"></td>
+        <td className="px-6 py-4"></td>
+      </tr>
+      <tr className="bg-white dark:bg-gray-800">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+         Royal Challengers Bengaluru
+        </th>
+        <td className="px-6 py-4"></td>
+        <td className="px-6 py-4"></td>
+        <td className="px-6 py-4"></td>
+        <td className="px-6 py-4"></td>
+      </tr>
+      <tr className="bg-white dark:bg-gray-800">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+        Sunrisers Hyderabad
+        </th>
+        <td className="px-6 py-4"></td>
+        <td className="px-6 py-4">	Sunrisers Eastern Cape</td>
+        <td className="px-6 py-4"></td>
+        <td className="px-6 py-4"></td>
+      </tr>
     </tbody>
   </table>
 </div>
+   <h1 className="text-center font-black text-2xl">Organization</h1>
+   <p className="m-5">The IPL's headquarters are located in the Cricket Centre, next to the Wankhede Stadium in Churchgate, Mumbai. The Governing Council is responsible for the league's functions, including the organization of tournaments. As of April 2024, its members included:[49]</p>
+   <ul className="list-disc m-5">
+    <li>Arun Singh Dhumal  Chairman</li>
+    <li>Jay Shah  Honorary Secretary BCCI, Member</li>
+    <li>Ashish Shelar Honorary Treasurer BCCI, Member</li>
+    <li>Avishek Dalmiya  Member</li>
+    <li>Vankina Chamundeswara Nath Indian Cricketers' Association's representative, Member</li>
+    <li>CM Sane  Comptroller and Auditor General of India Nominee, Member</li>
+
+   </ul>
+       <h1 className="text-center font-black text-2xl">Player acquisition, squad composition, and salaries</h1>
+          <p className="m-5">A team can acquire players through the annual player auction, trading with other teams during trading windows, and signing replacements for unavailable players. Players sign up for the auction[52] and set their base price and are bought by the highest-bidding franchise. Unsold players at the auction can become replacement signings. Trades require player consent, and any contract differences are covered by the franchise. There are typically three trading windows: two before the auction and one before the tournament. No trading is allowed outside these windows or during the tournament, but replacements can be signed before or during the event.</p>
 
         </div>
     );

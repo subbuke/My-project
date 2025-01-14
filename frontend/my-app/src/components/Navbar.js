@@ -3,7 +3,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import img1 from "./images/img1.png";
 
 const navigation = [
-  { name: 'Dashboard', href: '#', current: true },
+  { name: 'Dashboard', href: 'Dashboard', current: true },
   { name: 'Teams', href: '#', current: false },
   { name: 'cup winners', href: '#', current: false },
   { name: 'team histories', href: '#', current: false },

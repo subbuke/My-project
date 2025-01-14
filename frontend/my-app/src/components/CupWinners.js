@@ -158,10 +158,121 @@ function CupWinners() {
         <td className="px-6 py-4">60</td>
       </tr>
 
-      
+      <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+          2017
+        </th>
+        <td className="px-6 py-4">Mumbai Indians</td>
+        <td className="px-6 py-4">won by 1 runs</td>
+        <td className="px-6 py-4">Rising pune super gaints</td>
+        <td className="px-6 py-4">Rajiv Gandhi international Stadium</td>
+        <td className="px-6 py-4">60</td>
+      </tr>
+
+      <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+          2018
+        </th>
+        <td className="px-6 py-4">Chennai super Kings</td>
+        <td className="px-6 py-4">won by 8 wickets</td>
+        <td className="px-6 py-4">Sunrisers Hyderabad</td>
+        <td className="px-6 py-4">wankhede Stadium</td>
+        <td className="px-6 py-4">60</td>
+      </tr>
+
+      <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+          2019
+        </th>
+        <td className="px-6 py-4">Mumbai Indians</td>
+        <td className="px-6 py-4">won by 1 runs</td>
+        <td className="px-6 py-4">Chennai super kings</td>
+        <td className="px-6 py-4">Rajiv Gandhi international Stadium</td>
+        <td className="px-6 py-4">60</td>
+      </tr>
+
+      <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+          2020
+        </th>
+        <td className="px-6 py-4">Mumbai Indians</td>
+        <td className="px-6 py-4">won by 5 wickets</td>
+        <td className="px-6 py-4">Delhi capitals</td>
+        <td className="px-6 py-4">Dubai international Stadium</td>
+        <td className="px-6 py-4">60</td>
+      </tr>
+
+      <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+          2021
+        </th>
+        <td className="px-6 py-4">Chennai super kings</td>
+        <td className="px-6 py-4">won by 27runs</td>
+        <td className="px-6 py-4">Kolkata Knight Riders</td>
+        <td className="px-6 py-4">Dubai international Stadium</td>
+        <td className="px-6 py-4">60</td>
+      </tr>
+
+      <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+          2022
+        </th>
+        <td className="px-6 py-4">Gujarat Titans</td>
+        <td className="px-6 py-4">won by 7 wickets</td>
+        <td className="px-6 py-4">Rajasthan Royals</td>
+        <td className="px-6 py-4">Narendra modi Stadium</td>
+        <td className="px-6 py-4">74</td>
+      </tr>
+
+      <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+          2023
+        </th>
+        <td className="px-6 py-4">Chennai super kings</td>
+        <td className="px-6 py-4">won by 5 wickets</td>
+        <td className="px-6 py-4">Gujarat Titans</td>
+        <td className="px-6 py-4">Narendra modi Stadium</td>
+        <td className="px-6 py-4">74</td>
+      </tr>
+
+      <tr className="bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
+        <th
+          scope="row"
+          className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        >
+          2024
+        </th>
+        <td className="px-6 py-4">Kolkata Knight Riders</td>
+        <td className="px-6 py-4">won by 8 wickets</td>
+        <td className="px-6 py-4">Sunrisers Hyderabad</td>
+        <td className="px-6 py-4">M A chidambaram Stadium</td>
+        <td className="px-6 py-4">74</td>
+      </tr>
     </tbody>
   </table>
 </div>
+
 
 
     </div>

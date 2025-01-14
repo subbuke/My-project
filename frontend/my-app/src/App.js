@@ -1,7 +1,7 @@
 
 import Navbar from "./components/Navbar";
 import Dashboard from "./components/Dashboard";
-
+import Players from "./components/Players";
 
 function App() {
 
@@ -9,7 +9,7 @@ function App() {
     <div>
      <Navbar />
      <Dashboard />
-    
+    <Players />
     </div>
   );
 }

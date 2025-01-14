@@ -6,7 +6,7 @@ const navigation = [
   { name: 'Dashboard', href: 'Dashboard', current: true },
   { name: 'Teams', href: '#', current: false },
   { name: 'cup winners', href: '#', current: false },
-  { name: 'team histories', href: '#', current: false },
+  { name: 'players', href: '#', current: false },
 ]
 
 function classNames(...classes) {

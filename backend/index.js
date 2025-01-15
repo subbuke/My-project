@@ -4,12 +4,12 @@ const path = require("path");
 // Create an instance of an Express application
 const app = express();
 
+
 // Define a port
 const PORT = process.env.PORT || 5000;
 
-app.get('/Dashboard', (req, res) => {
-    res.send("Dashboard");
-});
+app.use(express.static(path.join(__dirname, '../frontend/my-app/build')));
+
 
 
 app.listen(PORT, () => {

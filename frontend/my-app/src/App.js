@@ -1,17 +1,22 @@
 
 import Navbar from "./components/Navbar";
 import Dashboard from "./components/Dashboard";
-import Players from "./components/Players";
-import CskPlayers from "./components/TeamPlayers/CskPlayers";
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Teams from "./components/Teams";
+
 
 function App() {
 
   return (
     <div>
-     <Navbar />
+      <Router>
+      <Navbar />
      <Dashboard />
-    <Players />
-    <CskPlayers />
+     <Routes>
+      <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/teams" element={<Teams />} />
+     </Routes>
+     </Router>
     </div>
   );
 }

@@ -2,11 +2,12 @@ import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import img1 from "./images/img1.png";
 
+
 const navigation = [
-  { name: 'Dashboard', href: 'Dashboard', current: true },
-  { name: 'Teams', href: '#', current: false },
-  { name: 'cup winners', href: '#', current: false },
-  { name: 'players', href: '#', current: false },
+  { name: 'Dashboard', href: '#dashboard', current: true },
+  { name: 'Teams', href: '#Teams', current: false },
+  { name: 'cup winners', href: '#cupWinners', current: false },
+  { name: 'players', href: '#players', current: false },
 ]
 
 function classNames(...classes) {

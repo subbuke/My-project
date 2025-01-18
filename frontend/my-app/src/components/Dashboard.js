@@ -20,7 +20,7 @@ const Dashboard = () => {
 
                 Following the ban on players who chose to participate in the ICL, the rival league shut down in 2009.[29][30]</p>
             <h1 className="text-center font-black text-2xl">Expansions and terminations</h1>
-            <p>New franchises, Pune Warriors India and Kochi Tuskers Kerala, joined the league before the fourth season in 2011.[31] The Sahara Adventure Sports Group purchased the Pune franchise for $370 million, while Rendezvous Sports World bought the Kochi franchise for $333.3 million.[31] The Kochi franchise was terminated after just one season due to their failure to pay the BCCI the 10% bank guarantee element of the franchise fee.[32]
+            <p className="m-5">New franchises, Pune Warriors India and Kochi Tuskers Kerala, joined the league before the fourth season in 2011.[31] The Sahara Adventure Sports Group purchased the Pune franchise for $370 million, while Rendezvous Sports World bought the Kochi franchise for $333.3 million.[31] The Kochi franchise was terminated after just one season due to their failure to pay the BCCI the 10% bank guarantee element of the franchise fee.[32]
 
                 In September 2012, the Deccan Chargers franchise agreement was terminated after the BCCI failed to find new owners.[33] In October, an auction was held for a replacement franchise; Sun TV Network won the bid for what became the Hyderabad franchise;[34] the team was named Sunrisers Hyderabad.[35]
 
